@@ -17,6 +17,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ADC-1989/Pet-Rift-Scr
 ![AAAA](https://cdn.discordapp.com/attachments/1082015056511901805/1087001052571770930/RobloxPlayerBeta_8niqB9ygnt.gif)
 
 ### Getting free huges and free hoverboard
-- Simply go to the "Main" tab with the house icon and select the option you want/
+- Simply go to the "Main" tab with the house icon and select the option you want
 ![GoingHome](https://cdn.discordapp.com/attachments/1082015056511901805/1087003177787859074/RobloxPlayerBeta_397zcU16zE.gif)
 
