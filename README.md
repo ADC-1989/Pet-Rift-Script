@@ -8,15 +8,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ADC-1989/Pet-Rift-Scr
 
 ### Autofarming
 - First select the autofarm type (Coins, Crates, Safes, Vaults, All)
-[![TypeSelection](https://cdn.discordapp.com/attachments/1082725688336982076/1086997764442968114/RobloxPlayerBeta_HVkcI7gCXh.gif)
+![TypeSelection](https://cdn.discordapp.com/attachments/1082725688336982076/1086997764442968114/RobloxPlayerBeta_HVkcI7gCXh.gif)
 
 - Then select the autofarm zone (Spawn, Spring, Fantasy Fature, etc.)
-[![WorldSelection](https://cdn.discordapp.com/attachments/1082015056511901805/1086998957546295326/RobloxPlayerBeta_wFITKvSuAA.gif)
+![WorldSelection](https://cdn.discordapp.com/attachments/1082015056511901805/1086998957546295326/RobloxPlayerBeta_wFITKvSuAA.gif)
 
 - Finally enable the autofarm by clicking the tick
-[![Enabling](https://cdn.discordapp.com/attachments/1082015056511901805/1087001052571770930/RobloxPlayerBeta_8niqB9ygnt.gif)
+![Enabling](https://cdn.discordapp.com/attachments/1082015056511901805/1087001052571770930/RobloxPlayerBeta_8niqB9ygnt.gif)
 
 ### Getting free huges and free hoverboard
 - Simply go to the "Main" tab with the house icon and select the option you want/
-[![GoingHome](https://cdn.discordapp.com/attachments/1082015056511901805/1087003177787859074/RobloxPlayerBeta_397zcU16zE.gif)
+![GoingHome](https://cdn.discordapp.com/attachments/1082015056511901805/1087003177787859074/RobloxPlayerBeta_397zcU16zE.gif)
 
