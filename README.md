@@ -1,3 +1,2 @@
-# Pet Rift Script
-
-# made by ADC#1989
+## Pet Rift Script
+-- A pet rift script made by me and using mercury lib
