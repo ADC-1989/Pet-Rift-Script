@@ -11,7 +11,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ADC-1989/Pet-Rift-Scr
 ![TypeSelection](https://cdn.discordapp.com/attachments/1082725688336982076/1086997764442968114/RobloxPlayerBeta_HVkcI7gCXh.gif)
 
 - Then select the autofarm zone (Spawn, Spring, Fantasy Fature, etc.)
-- <p align="center">
+<p align="center">
     <a href="#" target="_blank">
     <img src="https://cdn.discordapp.com/attachments/1082015056511901805/1086998957546295326/RobloxPlayerBeta_wFITKvSuAA.gif" width="1000">
     </a>
