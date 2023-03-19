@@ -11,7 +11,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ADC-1989/Pet-Rift-Scr
 ![Type](https://cdn.discordapp.com/attachments/1082725688336982076/1086997764442968114/RobloxPlayerBeta_HVkcI7gCXh.gif "Type")
 
 - Then select the autofarm zone (Spawn, Spring, Fantasy Fature, etc.)
-![Zone](https://cdn.discordapp.com/attachments/1082015056511901805/1086998957546295326/RobloxPlayerBeta_wFITKvSuAA.gif "Zone")
+![Zone](RobloxPlayerBeta_sgZlMNQSnA.gif "Zone")
 
 - Finally enable the autofarm by clicking the tick
 ![Enable](https://cdn.discordapp.com/attachments/1082015056511901805/1087001052571770930/RobloxPlayerBeta_8niqB9ygnt.gif "Enable")
